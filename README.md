@@ -10,3 +10,13 @@ where n is the next node on the path, g(n) is the cost of the path from the star
 
 For more details, please visit the following wikipedia link :
 * [A * Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+
+For the given test file (test.txt), the following output has been produced.
+
+
+🚦  ⛰️   0   0   0   0   
+🚗  ⛰️   0   0   0   0   
+🚗  ⛰️   0   0   0   0   
+🚗  🚗  🚗   ⛰️   0   0  
+0   ⛰️  🚗   🚗   🚗  🏁 
+
